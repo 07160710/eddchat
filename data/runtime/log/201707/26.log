@@ -1,0 +1,199 @@
+---------------------------------------------------------------
+[ 2017-07-26T23:54:31+08:00 ] 0.0.0.0 139.205.175.22 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.201613s][吞吐率：4.96req/s] [内存消耗：3,726.23kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/login/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=ksM99; PHPSESSID=cm95m2tsots4vr5vb1psb3e5m5; CUID=sQG1k',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001019s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005991s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000705s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000565s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000855s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000558s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000554s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000538s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000535s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000536s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000523s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000523s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000522s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000521s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 39 LIMIT 1 [ RunTime:0.000516s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 47 LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 47 LIMIT 1 [ RunTime:0.000525s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 44 LIMIT 1 [ RunTime:0.000537s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 44 LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000525s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000528s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 44 LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 44 LIMIT 1 [ RunTime:0.000536s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000845s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 44 LIMIT 1 [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 44 LIMIT 1 [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 47 LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 47 LIMIT 1 [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 47 LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 47 LIMIT 1 [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000532s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000572s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 45 LIMIT 1 [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 45 LIMIT 1 [ RunTime:0.000549s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000523s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 45 LIMIT 1 [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 45 LIMIT 1 [ RunTime:0.000521s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000522s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 52 LIMIT 1 [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 52 LIMIT 1 [ RunTime:0.000612s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000571s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000543s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000540s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 46 LIMIT 1 [ RunTime:0.000536s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 47 LIMIT 1 [ RunTime:0.000537s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 47 LIMIT 1 [ RunTime:0.000548s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 45 LIMIT 1 [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 45 LIMIT 1 [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 45 LIMIT 1 [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 45 LIMIT 1 [ RunTime:0.000528s ]
+---------------------------------------------------------------
+[ 2017-07-26T23:54:31+08:00 ] 0.0.0.0 139.205.175.22 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.082343s][吞吐率：12.14req/s] [内存消耗：3,426.20kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '48',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=ksM99; PHPSESSID=cm95m2tsots4vr5vb1psb3e5m5; CUID=Z8ryu',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa0000000e8',
+  'client_name' => 'admin',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014484s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.008077s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000714s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'admin' [ RunTime:0.000665s ]
+---------------------------------------------------------------
+[ 2017-07-26T23:54:43+08:00 ] 0.0.0.0 139.205.175.22 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.076948s][吞吐率：13.00req/s] [内存消耗：3,434.83kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '65',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=ksM99; PHPSESSID=cm95m2tsots4vr5vb1psb3e5m5; CUID=TdmCs',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'admin',
+  'msg' => '有人没？',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001045s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006302s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000707s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'admin' [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005524s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501084483' , 1 , 0 , '有人没？') [ RunTime:0.002413s ]

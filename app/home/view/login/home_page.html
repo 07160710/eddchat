@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" class="body-full-height">
+<head>
+    <!-- META SECTION -->
+    <title>EddChat|登录</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {include file='Public:head_in'/}
+</head>
+<body>
+{include file='Public:alert'}
+<div class="login-container">
+    <div class="login-box animated bounceInDown">
+        <div  class="login-logo animated bounceIn"></div>
+        <div class="login-body ">
+            <div class="login-title animated fadeIn"><strong>欢迎使用</strong>, 请登录</div>
+            <form id="login_in_form" action="{:url('home/Login/login_think')}" class="form-horizontal" method="post">
+                <div class="form-group">
+                    <div class="col-md-12">
+                        <input name="username" type="text" class="form-control" placeholder="用户名"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-12">
+                        <input name="password" type="password" class="form-control" placeholder="密码"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-12">
+                        <button id="embed-submit" class="btn btn-info btn-block">登陆</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="login-footer">
+            <div class="pull-left">
+            </div>
+            <div class="pull-right animated bounceIn">
+                &copy; 2017_EddChat
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+
+
+
+
+

